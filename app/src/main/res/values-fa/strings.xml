@@ -1,0 +1,29 @@
+<resources>
+    <string name="title_activity_splash">صفحه معرفی</string>
+    <string name="title_activity_intro">صفحه معرفی</string>
+    <string name="title_activity_main">صفحه اصلی</string>
+    <string name="title_activity_log">صفحه ورود به سیستم</string>
+    <string name="title_activity_web">صفحه نمایش وب</string>
+
+    <string name="prompt_name">Name</string>
+    <string name="prompt_username">نام کاربری</string>
+    <string name="prompt_phone">Phone Number</string>
+    <string name="prompt_email">پست الکترونیک</string>
+    <string name="prompt_password">" کلمه عبور"</string>
+
+    <string name="action_sign_in_long">وارد شوید یا ثبت نام کنید</string>
+    <string name="action_log_in">وارد شدن</string>
+    <string name="action_sign_in">ثبت نام</string>
+    <string name="action_log">Log in or register</string>
+
+    <string name="action_have_account">have Account?</string>
+    <string name="action_not_have_account">haven\'t Account?</string>
+
+    <string name="invalid_username">نام کاربری معتبری نیست</string>
+    <string name="invalid_password">رمز عبور باید بیش از  ۵ کاراکتر باشد</string>
+    <string name="login_failed">ورود ناموفق بود</string>
+    <string name="submit">ارسال</string>
+    <string name="more">بیشتر</string>
+    <string name="learns">فرا گرفتن</string>
+    <string name="image_view_description">icon image</string>
+</resources>

@@ -1,0 +1,32 @@
+[
+    {
+        "name": "AndroidX Libraries",
+        "license": "Apache License 2.0",
+        "url": "https://github.com/androidx/androidx"
+    },
+    {
+        "name": "Material Components for Android",
+        "license": "Apache License 2.0",
+        "url": "https://github.com/material-components/material-components-android"
+    },
+    {
+        "name": "Gson",
+        "license": "Apache License 2.0",
+        "url": "https://github.com/google/gson"
+    },
+    {
+        "name": "Guava",
+        "license": "Apache License 2.0",
+        "url": "https://github.com/google/guava"
+    },
+    {
+        "name": "Glide",
+        "license": "BSD, part MIT and Apache 2.0",
+        "url": "https://github.com/bumptech/glide"
+    },
+    {
+        "name": "Android UtilCode",
+        "license": "Apache License 2.0",
+        "url": "https://github.com/Blankj/AndroidUtilCode"
+    }
+]
